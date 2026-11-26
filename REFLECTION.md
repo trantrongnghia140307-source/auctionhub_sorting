@@ -36,7 +36,7 @@ The result after sorting was verified with the `isSorted` function. Screenshot: 
 
 **Lesson:** code that reads or writes files should check `if (!f)` and print an error message.
 
-## 4. Example prompts that follow the policy (Green Zone)
+## 4. Three prompts I sent to the LLM
 
 | # | Prompt | Level |
 |---|---|---|
