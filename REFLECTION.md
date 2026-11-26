@@ -40,9 +40,9 @@ The result after sorting was verified with the `isSorted` function. Screenshot: 
 
 | # | Prompt | Level |
 |---|---|---|
-| 1 | "Explain why Insertion Sort runs fast on nearly sorted data." | Green |
-| 2 | "What is median-of-three, and how does Lomuto differ from Hoare?" | Green |
-| 3 | "Here is my Bubble Sort loop with early stop. Is the `swapped` flag correct?" | Green |
+| 1 | "How do Selection Sort and Interchange Sort work, and how do they differ? Please use the array 3 1 4 2 as an example" | Green |
+| 2 | "Compare the time complexity of Quick Sort and Insertion Sort in the best, average, and worst cases" | Green |
+| 3 | "How do I commit and push files to a GitHub repository" | Green |
 
 ## 5. Worst case of Quick Sort with median-of-three
 
